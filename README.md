@@ -32,6 +32,8 @@ python subdomain_finder.py google.com -l subdomains_files/subdomains.txt -t 1
 3. Detailed Console Logs are attached as :
 ```bash
 console_log.txt
+
+https://github.com/githubbydivya/SecureU_Assignment/blob/master/console_log.txt
 ```
 
 ###
