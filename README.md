@@ -29,6 +29,9 @@ python subdomain_finder.py google.com -l subdomains_files/subdomains.txt -t 1
 
 2. ![img_1.png](img_1.png)
 
-3. Detailed Console Logs are attached as console_log.txt
+3. Detailed Console Logs are attached as :
+```bash
+console_log.txt
+```
 
 ###
