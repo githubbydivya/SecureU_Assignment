@@ -20,3 +20,15 @@ python subdomain_finder.py google.com -l subdomains_files/subdomains.txt -t 1
 3. subdomains_files contains the list of tried subdomain containing files required to be in the enumerations to be added as prefix. 
 4. -t states for the threads, number of threads currently mentioned is 1.
 ###
+
+## Execution Proof
+1.python subdomain_finder.py google.com -l subdomains_files/subdomains.txt -t 1
+
+![img.png](img.png)
+
+
+2. ![img_1.png](img_1.png)
+
+3. Detailed Console Logs are attached as console_log.txt
+
+###
